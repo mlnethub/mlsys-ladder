@@ -129,7 +129,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 推荐 [2017 斯坦福李飞飞视觉识别课程][]，这一课程具有良好的中文翻译。在第二阶段，我们只需要上完第一讲和第二讲，也就是课时 1 到课时 6 即可。总计大约 2 小时。其中第二讲，可以只关注 kNN 这一最简单的算法。
 
-除了视频以外，[斯坦福这一课程的主页](cs231n.stanford.edu/syllabus.html)也有一些资源，这些都是非常有帮助的：
+除了视频以外，[斯坦福这一课程的主页](http://cs231n.stanford.edu/syllabus.html)也有一些资源，这些都是非常有帮助的：
 
 - [NumPy 的教程](http://cs231n.github.io/python-numpy-tutorial/)（[中文版](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit)）推荐学习，了解 NumPy 基本用法，有助于完成渡劫任务
 - [图像分类笔记](http://cs231n.github.io/classification/)（[中文版上](https://zhuanlan.zhihu.com/p/20894041?refer=intelligentunit)，[中文版下](https://zhuanlan.zhihu.com/p/20900216?refer=intelligentunit)）强烈推荐，是课程的总结笔记，有助于了解课程。可以只看到 kNN 之前的内容
@@ -309,7 +309,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 [才云科技]: https://caicloud.io/
 [GluonCV]: https://gluon-cv.mxnet.io/
 [网易深度学习工程师微专业]: https://mooc.study.163.com/smartSpec/detail/1001319001.htm
-[2017 斯坦福李飞飞视觉识别课程]: https://study.163.com/course/introduction.htm?courseId=1004697005&_trace_c_p_k2_=186f7182b63648daa0d42d0058413cc0
+[2017 斯坦福李飞飞视觉识别课程]: https://cloud.tencent.com/edu/learning/course-1039-690
 [第一课-神经网络和深度学习]: https://mooc.study.163.com/course/2001281002#/info
 [CS231n-Assignment-1]: http://cs231n.github.io/assignments2019/assignment1/
 [网友的开源解答]: https://github.com/MahanFathi/CS231
